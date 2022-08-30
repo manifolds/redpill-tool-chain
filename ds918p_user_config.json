@@ -7,10 +7,5 @@
     },
     "synoinfo": {},
     "ramdisk_copy": {},
-    "extensions": [
-      "redpill-virtio.json",
-      "redpill-misc.json",
-      "redpill-boot-wait.json",
-      "redpill-acpid.json"
-    ]
+    "extensions": [ ]
 }
